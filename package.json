@@ -1,0 +1,19 @@
+{
+  "name": "database-seeder",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "veloa",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.2.2"
+  },
+  "repository": {
+    "url": "https://github.com/loina1/database-seeder.git",
+    "type": "git"
+  }
+}
